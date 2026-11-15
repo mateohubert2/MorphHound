@@ -1,6 +1,6 @@
-# ChimeraShift
+# MorphHound
 
-**ChimeraShift** est une solution de pentesting innovante qui intègre des concepts d'autonomic computing pour offrir une analyse de sécurité avancée et adaptative des infrastructures. En combinant une interface graphique intuitive et une approche basée sur la boucle de contrôle fermée **MAPE-K**, ChimeraShift va au-delà des tests automatiques classiques en adaptant et en affinant continuellement ses méthodes d'attaque.
+**MorphHound** est une solution de pentesting innovante qui intègre des concepts d'autonomic computing pour offrir une analyse de sécurité avancée et adaptative des infrastructures. En combinant une interface graphique intuitive et une approche basée sur la boucle de contrôle fermée **MAPE-K**, MorphHound va au-delà des tests automatiques classiques en adaptant et en affinant continuellement ses méthodes d'attaque.
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## Introduction
 
-ChimeraShift a été conçu pour répondre aux besoins d’une sécurité offensive évolutive. En automatisant et en adaptant les tests de pénétration, il permet d’identifier non seulement les failles de sécurité de manière proactive mais aussi de réagir en temps réel aux mécanismes de défense mis en place par les infrastructures cibles. La solution cible aussi bien des environnements complexes que des configurations standard, et s’adapte aux défis modernes de la cybersécurité.
+MorphHound a été conçu pour répondre aux besoins d’une sécurité offensive évolutive. En automatisant et en adaptant les tests de pénétration, il permet d’identifier non seulement les failles de sécurité de manière proactive mais aussi de réagir en temps réel aux mécanismes de défense mis en place par les infrastructures cibles. La solution cible aussi bien des environnements complexes que des configurations standard, et s’adapte aux défis modernes de la cybersécurité.
 
 ---
 
@@ -38,32 +38,32 @@ ChimeraShift a été conçu pour répondre aux besoins d’une sécurité offens
 
 ### Interface Utilisateur
 
-L’interface graphique de ChimeraShift offre une expérience utilisateur optimisée pour la configuration et le lancement des tests. Les utilisateurs peuvent :
+L’interface graphique de MorphHound offre une expérience utilisateur optimisée pour la configuration et le lancement des tests. Les utilisateurs peuvent :
 - Sélectionner les cibles (IP, domaines, sous-réseaux)
 - Configurer des paramètres de tests spécifiques
 - Visualiser en temps réel les résultats et l’évolution des tests
 
 ### Phase de Découverte
 
-Lors de la phase initiale, ChimeraShift effectue une reconnaissance complète de l’infrastructure :
+Lors de la phase initiale, MorphHound effectue une reconnaissance complète de l’infrastructure :
 - **Scan de Port et Service** : Identification des ports ouverts et des services actifs.
 - **Fingerprinting** : Détermination des versions et configurations des services pour identifier les vulnérabilités potentielles.
 - **Cartographie Réseau** : Création d’une topologie réseau pour mieux comprendre les interconnexions et les chemins potentiels d’attaque.
 
 ### Boucle de Contrôle MAPE-K
 
-La force de ChimeraShift réside dans l’intégration du cycle MAPE-K, qui permet une adaptation dynamique des tests :
+La force de MorphHound réside dans l’intégration du cycle MAPE-K, qui permet une adaptation dynamique des tests :
 - **Monitor (Surveillance)** : Collecte continue des données et des retours des tests en cours.
 - **Analyze (Analyse)** : Traitement et interprétation des données pour détecter les anomalies et les vulnérabilités.
 - **Plan (Planification)** : Élaboration de stratégies d’attaque personnalisées basées sur l’analyse des données.
 - **Execute (Exécution)** : Déploiement des tests et des attaques de manière coordonnée et en temps réel.
 - **Knowledge (Connaissance)** : Mise à jour de la base de connaissances pour améliorer les futurs tests, incluant l’apprentissage sur les nouvelles menaces et mécanismes de défense.
 
-Ce cycle permet à ChimeraShift de s’ajuster en permanence, en passant d’un test automatique basique à des attaques ciblées plus avancées lorsque nécessaire, et de réagir face aux mécanismes de sécurité mis en place.
+Ce cycle permet à MorphHound de s’ajuster en permanence, en passant d’un test automatique basique à des attaques ciblées plus avancées lorsque nécessaire, et de réagir face aux mécanismes de sécurité mis en place.
 
 ---
-ChimeraShift est conçu pour aider les professionnels de la sécurité à effectuer des tests de pénétration de manière proactive et intelligente, en s'adaptant continuellement aux évolutions des infrastructures et aux nouvelles menaces.  
-**Note importante :** Utilisez ChimeraShift uniquement sur des systèmes qui vous appartiennent ou pour lesquels vous disposez d'une autorisation explicite.
+MorphHound est conçu pour aider les professionnels de la sécurité à effectuer des tests de pénétration de manière proactive et intelligente, en s'adaptant continuellement aux évolutions des infrastructures et aux nouvelles menaces.  
+**Note importante :** Utilisez MorphHound uniquement sur des systèmes qui vous appartiennent ou pour lesquels vous disposez d'une autorisation explicite.
 
 ## Installation et Configuration
 
